@@ -1,0 +1,2137 @@
+labels:
+  - person
+  - car
+  - bicycle
+tags:
+  - moving
+  - standing
+tracks:
+  - id: 1
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 394167000
+        translation:
+          x: -29.64189434051514
+          y: -5.033382470719516
+          z: 4.796669483184814
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.307905960828066
+          width: 10.08164089731872
+          height: 3.46361618116498
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 594165000
+        translation:
+          x: -29.66076469421387
+          y: -6.053723216056824
+          z: 4.765982389450073
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.200894165784121
+          width: 8.006342936307192
+          height: 3.416876126080751
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 694484000
+        translation:
+          x: -29.66722965240479
+          y: -7.16981029510498
+          z: 4.771197557449341
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.097506333142519
+          width: 6.777422714978456
+          height: 3.414762783795595
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 794803000
+        translation:
+          x: -29.37380886077881
+          y: -10.46530556678772
+          z: 4.790323376655579
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.662260819226503
+          width: 10.19721822813153
+          height: 3.530365515500307
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 894483000
+        translation:
+          x: -29.01906776428223
+          y: -12.69149732589722
+          z: 5.472109794616699
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.179272461682558
+          width: 8.070417214184999
+          height: 2.245798874646425
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 95120000
+        translation:
+          x: -27.20306396484375
+          y: -18.66012191772461
+          z: 6.844417095184326
+        rotation:
+          x: 1.61943118052847e-08
+          y: -8.174661896407583e-09
+          z: 0.002308374968277294
+          w: 0.9999973356989534
+        box:
+          length: 2.179272461682558
+          width: 8.070417214184999
+          height: 2.245798874646425
+  - id: 2
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 394167000
+        translation:
+          x: -38.69602012634277
+          y: 5.843872353434563
+          z: 5.433210611343384
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 4.038376618176699
+          width: 11.33732052519917
+          height: 2.874000836163759
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 493847000
+        translation:
+          x: -38.60244560241699
+          y: 5.860927879810333
+          z: 5.432865142822266
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.823838043957949
+          width: 11.29738061502576
+          height: 2.87121944501996
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 694484000
+        translation:
+          x: -38.51599502563477
+          y: 5.899493455886841
+          z: 5.433733224868774
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.658741760998964
+          width: 11.22607832029462
+          height: 2.872955609112978
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 794803000
+        translation:
+          x: -38.35567283630371
+          y: 5.898077860474586
+          z: 5.432865142822266
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.357682038098574
+          width: 11.22308065369725
+          height: 2.87121944501996
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 894483000
+        translation:
+          x: -38.07189559936523
+          y: 5.879455178976059
+          z: 5.433387756347656
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.782322693616152
+          width: 11.18616830185056
+          height: 2.870174217969179
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 95120000
+        translation:
+          x: -37.60903423983318
+          y: 5.874959760797803
+          z: 5.429046312134492
+        rotation:
+          x: 8.353023596280918e-09
+          y: -6.499867401905882e-09
+          z: 0.01438078206111807
+          w: 0.9998965912069661
+        box:
+          length: 1.853193752521818
+          width: 11.05524519618774
+          height: 2.861491449963795
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 295119000
+        translation:
+          x: -37.31890604017218
+          y: 3.82303395309936
+          z: 7.352309530412284
+        rotation:
+          x: 1.667776826034782e-08
+          y: -1.297772981560721e-08
+          z: 0.02871287759187869
+          w: 0.9995877003346897
+        box:
+          length: 1.835889366926459
+          width: 10.92152104632964
+          height: 4.355604342598002
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 395437000
+        translation:
+          x: -37.18213279357681
+          y: 3.484920116903601
+          z: 8.002722528476227
+        rotation:
+          x: 2.085221410643552e-08
+          y: -1.622605597283009e-08
+          z: 0.03589971143098152
+          w: 0.9993553976034609
+        box:
+          length: 1.734105065522613
+          width: 9.543649883764434
+          height: 3.059615369143628
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 495757000
+        translation:
+          x: -37.13239767757077
+          y: 6.486751912424202
+          z: 6.756009860083601
+        rotation:
+          x: 2.502566505020395e-08
+          y: -1.947360846806189e-08
+          z: 0.04308483369254596
+          w: 0.9990714174200385
+        box:
+          length: 1.241796761855902
+          width: 9.41417045817008
+          height: 3.062800367837951
+  - id: 3
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 493847000
+        translation:
+          x: -18.48293113708496
+          y: -25.8512077331543
+          z: 6.51578426361084
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.771649170666933
+          width: 7.743569184094667
+          height: 3.048176575452089
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 594165000
+        translation:
+          x: -19.77986431121826
+          y: -23.13349533081055
+          z: 6.514018297195435
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 6.54889564588666
+          width: 6.698834229260683
+          height: 3.075901318341494
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 694484000
+        translation:
+          x: -18.60623073577881
+          y: -22.09757900238037
+          z: 6.495317459106445
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 4.535105515271425
+          width: 9.734877396374941
+          height: 3.06975631788373
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 794803000
+        translation:
+          x: -17.80183792114258
+          y: -20.49455738067627
+          z: 6.308421611785889
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.832096863538027
+          width: 8.630953598767519
+          height: 2.775843430310488
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 894483000
+        translation:
+          x: -18.44153118133545
+          y: -16.7938551902771
+          z: 5.836273193359375
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.317080307751894
+          width: 8.61494617536664
+          height: 2.196032334119081
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 994801000
+        translation:
+          x: -18.50761222839355
+          y: -14.06863260269165
+          z: 5.318013906478882
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.158642578870058
+          width: 8.414565850049257
+          height: 2.139064121991396
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 95120000
+        translation:
+          x: -18.5547456741333
+          y: -11.47753620147705
+          z: 4.792421817779541
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.059126663953066
+          width: 8.151480484753847
+          height: 2.164499092847109
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 195440000
+        translation:
+          x: -18.83533668518066
+          y: -9.613341808319092
+          z: 4.368384599685669
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.895512390881777
+          width: 8.103452492505312
+          height: 2.011017132550478
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 295119000
+        translation:
+          x: -18.71108627319336
+          y: -7.749402165412903
+          z: 4.117914199829102
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.136093903332949
+          width: 8.127220679074526
+          height: 1.718454170972109
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 395437000
+        translation:
+          x: -18.24949073791504
+          y: -5.867965340614319
+          z: 3.989977598190308
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.499680329114199
+          width: 8.084853697568178
+          height: 1.514675427228212
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 495757000
+        translation:
+          x: -18.06724548339844
+          y: -3.971653053537011
+          z: 3.925994515419006
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.9895370490849018
+          width: 8.082550674676895
+          height: 1.42491202428937
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 595437000
+        translation:
+          x: -18.42536163330078
+          y: -2.088899910449982
+          z: 3.922209739685059
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.184601593762636
+          width: 8.075588393956423
+          height: 1.403450775891542
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 695755000
+        translation:
+          x: -18.64084625244141
+          y: -0.186334490776062
+          z: 3.927545547485352
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.9323661811649799
+          width: 8.091679621487856
+          height: 1.431486893445253
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 796073000
+        translation:
+          x: -18.80524349212646
+          y: 1.992368161678314
+          z: 3.95768928527832
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.8706920631229877
+          width: 7.556466985493898
+          height: 1.429261017590761
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 896393000
+        translation:
+          x: -18.94441699981689
+          y: 4.306224942207336
+          z: 4.026785135269165
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.9729984290897846
+          width: 7.251111555844545
+          height: 1.445899296551943
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 996073000
+        translation:
+          x: -19.81767559051514
+          y: 6.657205700874329
+          z: 2.980743229389191
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 4.070105362683535
+          width: 6.787315893918276
+          height: 3.244944740086794
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 96391000
+        translation:
+          x: -20.51633739471436
+          y: 8.266457319259644
+          z: 1.917354375123978
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.850691605359316
+          width: 5.282433796674013
+          height: 2.419627893716097
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 196711000
+        translation:
+          x: -21.21128082275391
+          y: 9.398742198944092
+          z: 0.8294044733047485
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.846512604504824
+          width: 4.245441246777773
+          height: 1.708808947354555
+  - id: 4
+    track:
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 396709000
+        translation:
+          x: -29.99804960930082
+          y: 6.833239201323383
+          z: 5.018864214677061
+        rotation:
+          x: 1.188732734757379e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250812
+          w: 0.9950267489086281
+        box:
+          length: 3.071095465904495
+          width: 12.5097573001069
+          height: 3.726126192402756
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 497027000
+        translation:
+          x: -29.40666358006547
+          y: 6.286089782977284
+          z: 4.976707637458567
+        rotation:
+          x: 1.188732734757379e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250812
+          w: 0.9950267489086281
+        box:
+          length: 2.054388891598098
+          width: 11.17887771113885
+          height: 3.681534051420545
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 597347000
+        translation:
+          x: -28.98192537104132
+          y: 5.395892388812635
+          z: 4.858014897029996
+        rotation:
+          x: 1.18873273475738e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250817
+          w: 0.9950267489086281
+        box:
+          length: 1.531220995541624
+          width: 10.60834150744832
+          height: 3.577944747642432
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 697665000
+        translation:
+          x: -28.65594890071801
+          y: 4.270405029171676
+          z: 4.708446036821446
+        rotation:
+          x: 1.18873273475738e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250823
+          w: 0.9950267489086281
+        box:
+          length: 1.222415002628896
+          width: 10.21186097143199
+          height: 3.565214767679708
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 797345000
+        translation:
+          x: -28.6864893435122
+          y: 3.027529078211773
+          z: 4.640294919179064
+        rotation:
+          x: 1.188732734757379e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250812
+          w: 0.9950267489086281
+        box:
+          length: 1.660171897864462
+          width: 10.11206442119897
+          height: 3.472814457453568
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 897664000
+        translation:
+          x: -28.68605988093774
+          y: 1.713851029720606
+          z: 4.592475305550442
+        rotation:
+          x: 1.18873273475738e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250817
+          w: 0.9950267489086281
+        box:
+          length: 1.673304894126325
+          width: 9.948351334957191
+          height: 3.377175220920356
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 997983000
+        translation:
+          x: -28.45152833973928
+          y: 0.3554086598098808
+          z: 4.559754742500851
+        rotation:
+          x: 1.18873273475738e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250823
+          w: 0.9950267489086281
+        box:
+          length: 1.275793360631631
+          width: 9.760412624009895
+          height: 3.29291904263807
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 4
+            nsecs: 98301000
+        translation:
+          x: -28.10807714490274
+          y: -0.9978965132833527
+          z: 4.521348451994686
+        rotation:
+          x: 1.188732734757381e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250828
+          w: 0.9950267489086281
+        box:
+          length: 1.080068604644165
+          width: 9.748607913840061
+          height: 3.174295151778722
+      - label: ""
+        header:
+          frame_id: ls
+          stamp:
+            secs: 4
+            nsecs: 197981000
+        translation:
+          x: -27.79189029471291
+          y: -2.454855432047857
+          z: 4.500028990314401
+        rotation:
+          x: 1.188732734757381e-08
+          y: -1.246808275978506e-11
+          z: 0.09960807676250834
+          w: 0.9950267489086281
+        box:
+          length: 1.029919911165418
+          width: 9.462916259957666
+          height: 3.137927878037416
+  - id: 5
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 103652000
+        translation:
+          x: -28.66906547546387
+          y: -5.900435596704483
+          z: 4.546233177185059
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.109608460217714
+          width: 10.5140976794064
+          height: 2.891664315015078
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 203970000
+        translation:
+          x: -28.59187889099121
+          y: -7.930230617523193
+          z: 4.550879836082458
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.978989411145449
+          width: 9.841632653027773
+          height: 2.92395405843854
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 303651000
+        translation:
+          x: -27.92390060424805
+          y: -10.35106635093689
+          z: 4.998313903808594
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.754090119153261
+          width: 9.660163212567568
+          height: 2.083143044263124
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 403969000
+        translation:
+          x: -27.43799877166748
+          y: -11.80403327941895
+          z: 5.503249883651733
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.022761154919863
+          width: 7.714968491345644
+          height: 2.013031292706728
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 504288000
+        translation:
+          x: -27.85358905792236
+          y: -13.45950794219971
+          z: 6.01393723487854
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.99921302869916
+          width: 9.89411048963666
+          height: 1.690240193158388
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 603968000
+        translation:
+          x: -27.31593608856201
+          y: -14.2461085319519
+          z: 6.521043062210083
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.146982956677675
+          width: 8.198915291577578
+          height: 1.72160368040204
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 704287000
+        translation:
+          x: -26.85772705078125
+          y: -15.0115122795105
+          z: 7.085042476654053
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.005734253674746
+          width: 8.139856148511171
+          height: 1.65806083753705
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 804605000
+        translation:
+          x: -26.39370155334473
+          y: -17.76261281967163
+          z: 7.239467620849609
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.09844665601849556
+          width: 4.021409798413515
+          height: 0.8691375739872456
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 904924000
+        translation:
+          x: -29.35183143615723
+          y: -18.71712446212769
+          z: 7.81520414352417
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 6.022835541516542
+          width: 7.732263375073671
+          height: 2.220205117017031
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 5244000
+        translation:
+          x: -32.30998992919922
+          y: -19.67164611816406
+          z: 8.390946388244629
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 6.022835541516542
+          width: 7.732263375073671
+          height: 2.220205117017031
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 104923000
+        translation:
+          x: -27.86220741271973
+          y: -20.09690856933594
+          z: 8.585807800292969
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.8811080940067768
+          width: 7.28960495069623
+          height: 1.051556397229433
+  - id: 6
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 103652000
+        translation:
+          x: -38.93241691589355
+          y: 4.287934303283691
+          z: 5.93346893787384
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 4.473885346204042
+          width: 11.9090812690556
+          height: 4.188103247433901
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 203970000
+        translation:
+          x: -38.44912719726562
+          y: 3.88560962677002
+          z: 5.933923125267029
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.933987427502871
+          width: 11.28023605421185
+          height: 4.237094927579165
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 303651000
+        translation:
+          x: -38.09770774841309
+          y: 3.680602908134461
+          z: 5.939620733261108
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.382973480969667
+          width: 10.87112526968122
+          height: 4.263123799115419
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 403969000
+        translation:
+          x: -37.8716325843839
+          y: 3.545593058893966
+          z: 5.958303812727207
+        rotation:
+          x: -4.551559152419268e-09
+          y: 4.148949205017925e-09
+          z: 0.0007655176488885644
+          w: 0.9999997069913217
+        box:
+          length: 3.113586943951972
+          width: 10.6053144450344
+          height: 4.321395998839529
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 603968000
+        translation:
+          x: -37.74836794310674
+          y: 3.363107364485568
+          z: 5.996296781903671
+        rotation:
+          x: -1.362576535961187e-08
+          y: 1.242049303722721e-08
+          z: 0.002291690317752981
+          w: 0.9999973740742958
+        box:
+          length: 2.493243409137392
+          width: 10.34442748512988
+          height: 4.361842449835641
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 704287000
+        translation:
+          x: -37.63045897311765
+          y: 3.382643132116856
+          z: 6.004079125632522
+        rotation:
+          x: -1.817735395026919e-08
+          y: 1.656946912110373e-08
+          z: 0.003057212937403211
+          w: 0.9999953267136076
+        box:
+          length: 2.341379091137483
+          width: 10.09604136171376
+          height: 4.387859960541105
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 804605000
+        translation:
+          x: -37.53738308786225
+          y: 3.384961007382428
+          z: 5.997818494964113
+        rotation:
+          x: -2.272888862197935e-08
+          y: 2.071839393025012e-08
+          z: 0.00382272630201727
+          w: 0.999992693355116
+        box:
+          length: 2.301616021998598
+          width: 10.0835411916466
+          height: 4.392063361624624
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 904924000
+        translation:
+          x: -37.57451145259959
+          y: 3.394225601073605
+          z: 6.004635956079809
+        rotation:
+          x: -2.728045973539996e-08
+          y: 2.486735202952844e-08
+          z: 0.004588244977215049
+          w: 0.9999894739486149
+        box:
+          length: 1.937857016387476
+          width: 10.04882172067957
+          height: 4.361796447578625
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 5244000
+        translation:
+          x: -39.31871501107219
+          y: 2.250132220563112
+          z: 5.44158115735189
+        rotation:
+          x: -3.183205792605072e-08
+          y: 2.901633701070619e-08
+          z: 0.005353768680424082
+          w: 0.999985668477761
+        box:
+          length: 1.767293542964666
+          width: 4.844615917526843
+          height: 2.84684069210779
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 104923000
+        translation:
+          x: -39.2638618785782
+          y: 5.143466125669535
+          z: 5.433018929446713
+        rotation:
+          x: -3.635455673887979e-08
+          y: 3.313879694690515e-08
+          z: 0.006114422684281127
+          w: 0.9999813067428989
+        box:
+          length: 5.132978715877279
+          width: 8.191743533598192
+          height: 2.468048159011898
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 205241000
+        translation:
+          x: -39.13384889965964
+          y: 3.241624242467002
+          z: 5.429174727766906
+        rotation:
+          x: -4.090602684288356e-08
+          y: 3.728766613551947e-08
+          z: 0.006879949448441936
+          w: 0.9999763328677254
+        box:
+          length: 4.066206415095429
+          width: 8.04275359847688
+          height: 2.489627816853622
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 305560000
+        translation:
+          x: -39.26855018594161
+          y: 3.70569201016984
+          z: 5.423391829028644
+        rotation:
+          x: -4.545751769119795e-08
+          y: 4.143655288058172e-08
+          z: 0.007645479709828523
+          w: 0.9999707728928895
+        box:
+          length: 4.058412856104297
+          width: 10.88256659004951
+          height: 2.542869080151117
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 405241000
+        translation:
+          x: -38.59479775408722
+          y: 3.985345651495492
+          z: 5.446008791860772
+        rotation:
+          x: -4.998003500111764e-08
+          y: 4.555903093473037e-08
+          z: 0.008406137228551694
+          w: 0.9999646678042631
+        box:
+          length: 3.833204563147142
+          width: 10.34667872688374
+          height: 2.535839077908095
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 505559000
+        translation:
+          x: -37.43264106913373
+          y: 4.300610078257394
+          z: 5.95515300644953
+        rotation:
+          x: -5.453142373556536e-08
+          y: 4.970782659164443e-08
+          z: 0.009171650730148794
+          w: 0.9999579395268977
+        box:
+          length: 1.476735480261183
+          width: 10.26430179802948
+          height: 1.56964280443098
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 605877000
+        translation:
+          x: -38.59482652780624
+          y: 3.677977690913077
+          z: 5.367552382387307
+        rotation:
+          x: -5.908277824992611e-08
+          y: 5.385659088282794e-08
+          z: 0.009937158565807982
+          w: 0.9999506252208814
+        box:
+          length: 3.841783835599124
+          width: 10.04062321516599
+          height: 2.765682140829258
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 706197000
+        translation:
+          x: -39.66547412464772
+          y: 1.775244301781187
+          z: 4.657295059066059
+        rotation:
+          x: -6.363418977778482e-08
+          y: 5.800540520128024e-08
+          z: 0.0107026761909826
+          w: 0.9999427247209429
+        box:
+          length: 3.740954563742648
+          width: 7.212013313183317
+          height: 1.41833649290836
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 806516000
+        translation:
+          x: -39.9443311296013
+          y: 2.320559102603184
+          z: 4.311884782036571
+        rotation:
+          x: -6.818552001492629e-08
+          y: 6.215414205868419e-08
+          z: 0.01146817931971097
+          w: 0.9999342382692386
+        box:
+          length: 3.095779739935111
+          width: 4.8071957210853
+          height: 0.6062630360685715
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 906195000
+        translation:
+          x: -39.95766067504882
+          y: 0.9018614590167999
+          z: 4.200999021530151
+        rotation:
+          x: -7.270777814554376e-08
+          y: 6.627637931068177e-08
+          z: 0.01222879515922502
+          w: 0.9999252254888583
+        box:
+          length: 1.284074722913147
+          width: 0.9081400545143397
+          height: 0.1837961734267264
+  - id: 7
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 904924000
+        translation:
+          x: -18.08524417877197
+          y: -26.24478816986084
+          z: 7.161873579025269
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.250410843640566
+          width: 7.153132248669863
+          height: 1.649551678448915
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 5244000
+        translation:
+          x: -17.29407501220703
+          y: -26.22858142852783
+          z: 7.177787780761719
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.688854981213808
+          width: 7.167193222790956
+          height: 1.656431008130312
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 104923000
+        translation:
+          x: -17.87889194488525
+          y: -22.2684211730957
+          z: 5.942371129989624
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.445994187146425
+          width: 7.91521530225873
+          height: 2.516064930707216
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 205241000
+        translation:
+          x: -18.46047115325928
+          y: -19.24779987335205
+          z: 4.550086617469788
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.371310044080019
+          width: 5.997160721570253
+          height: 2.043994475156069
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 305560000
+        translation:
+          x: -17.94384165121473
+          y: -17.2799565899495
+          z: 4.337193364851414
+        rotation:
+          x: 1.972811023313307e-09
+          y: -6.86608102891977e-10
+          z: 0.01819393222857132
+          w: 0.9998344767160523
+        box:
+          length: 4.629403979121378
+          width: 11.06874742424404
+          height: 4.095866268807456
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 405241000
+        translation:
+          x: -18.83113803481272
+          y: -17.06266371834359
+          z: 4.242843970794929
+        rotation:
+          x: 3.932429996088065e-09
+          y: -1.368624857039583e-09
+          z: 0.03626620414221272
+          w: 0.9993421648450121
+        box:
+          length: 4.529578090761305
+          width: 11.10927820172848
+          height: 3.90716750864433
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 505559000
+        translation:
+          x: -18.80682203115952
+          y: -14.94457158906073
+          z: 4.180587754539123
+        rotation:
+          x: 5.903273530410484e-09
+          y: -2.054547901633398e-09
+          z: 0.05444199315964533
+          w: 0.9985169349494305
+        box:
+          length: 4.534262661769052
+          width: 11.04037055015512
+          height: 3.89136492464334
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 605877000
+        translation:
+          x: -18.5109874769036
+          y: -12.79723045896771
+          z: 4.118377210019601
+        rotation:
+          x: 7.872162260909178e-09
+          y: -2.739790763285697e-09
+          z: 0.07259975919110681
+          w: 0.9973611557331643
+        box:
+          length: 3.982077787121849
+          width: 11.06693531376912
+          height: 3.938370623380871
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 706197000
+        translation:
+          x: -18.22806702786181
+          y: -10.63835842476294
+          z: 4.004153864501521
+        rotation:
+          x: 9.838483774457595e-09
+          y: -3.424140293853352e-09
+          z: 0.09073385567716684
+          w: 0.9958751766330732
+        box:
+          length: 3.960559525469186
+          width: 11.0221916944713
+          height: 3.881350247263522
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 806516000
+        translation:
+          x: -18.54707247392959
+          y: -8.60541486984061
+          z: 3.783783432170166
+        rotation:
+          x: 1.180153019099093e-08
+          y: -4.107349626985687e-09
+          z: 0.1088377432351509
+          w: 0.9940595282212626
+        box:
+          length: 2.725059871202333
+          width: 11.05063003577131
+          height: 3.635032688173264
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 906195000
+        translation:
+          x: -18.65397232306803
+          y: -6.53933128440315
+          z: 3.620919889844054
+        rotation:
+          x: 1.374818470004028e-08
+          y: -4.784853807224946e-09
+          z: 0.1267904628843902
+          w: 0.9919295229609622
+        box:
+          length: 2.343980790497223
+          width: 11.0407639611225
+          height: 3.351116813437256
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 6514000
+        translation:
+          x: -18.67787753444268
+          y: -4.503464906324371
+          z: 3.489401162595866
+        rotation:
+          x: 1.57027991767624e-08
+          y: -5.465128215996345e-09
+          z: 0.1448165919218684
+          w: 0.9894585159086432
+        box:
+          length: 2.247559142227733
+          width: 10.90563341690006
+          height: 3.096441690069886
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 106833000
+        translation:
+          x: -18.61965525675213
+          y: -2.414738875556154
+          z: 3.437581695059221
+        rotation:
+          x: 3.68570100912337e-09
+          y: -6.166138151969888e-09
+          z: 0.04216313283705017
+          w: 0.9991107397227623
+        box:
+          length: 1.973955032847748
+          width: 10.82945745439629
+          height: 2.982349790013686
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 206513000
+        translation:
+          x: -18.76977379954766
+          y: -0.2954984535099741
+          z: 3.384553012105592
+        rotation:
+          x: 7.201705344209177e-10
+          y: -6.11586023621266e-09
+          z: -0.0008659809161533148
+          w: 0.9999996250384561
+        box:
+          length: 1.565727030536816
+          width: 10.73467753504237
+          height: 2.865839643449852
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 306831000
+        translation:
+          x: -18.92106678871628
+          y: 1.881685297536149
+          z: 3.366214927723701
+        rotation:
+          x: -2.265675726433371e-09
+          y: -6.053823383799777e-09
+          z: -0.04416871050909224
+          w: 0.9990240863022092
+        box:
+          length: 1.577666620234684
+          width: 10.65792480375603
+          height: 2.839616244965097
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 407151000
+        translation:
+          x: -19.4057106947721
+          y: 4.563631695583881
+          z: 3.383626345845534
+        rotation:
+          x: 4.54783410219811e-09
+          y: -9.260652658557799e-09
+          z: 0.04299577644076139
+          w: 0.9990752540265703
+        box:
+          length: 1.423658487510551
+          width: 10.46520046316923
+          height: 2.809631378830784
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 507469000
+        translation:
+          x: -19.85955425249094
+          y: 6.483609987163734
+          z: 3.343650925036841
+        rotation:
+          x: 1.239947385327502e-09
+          y: -1.561832997141594e-08
+          z: -0.002924636049573599
+          w: 0.9999957232428434
+        box:
+          length: 1.402525488579684
+          width: 8.853932378580808
+          height: 2.627242617159435
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 607149000
+        translation:
+          x: -20.39222938405888
+          y: 7.479011146464447
+          z: 3.390229200881251
+        rotation:
+          x: -2.04950738687016e-09
+          y: -2.190296822277651e-08
+          z: -0.04854709757355549
+          w: 0.9988208945137177
+        box:
+          length: 1.422430715472839
+          width: 7.027323665113807
+          height: 2.488345928806009
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 707467000
+        translation:
+          x: -21.02338221662945
+          y: 7.949641396727241
+          z: 3.480497447904036
+        rotation:
+          x: -5.355691743858757e-09
+          y: -2.818174495674586e-08
+          z: -0.09435927421452689
+          w: 0.9955382098994026
+        box:
+          length: 1.437189076693361
+          width: 3.791735269405435
+          height: 2.415923652962346
+  - id: 8
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 706197000
+        translation:
+          x: -30.80637183262223
+          y: 11.50651800997765
+          z: 6.878498011095017
+        rotation:
+          x: 4.478335283792095e-08
+          y: -2.841832769128784e-08
+          z: 0.1720962551320434
+          w: 0.9850801383489182
+        box:
+          length: 3.649418151301624
+          width: 10.01218926474101
+          height: 3.711379895499138
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 806516000
+        translation:
+          x: -30.55649359441264
+          y: 9.780221066436951
+          z: 6.621663748272079
+        rotation:
+          x: 4.478335283792096e-08
+          y: -2.841832769128784e-08
+          z: 0.1720962551320434
+          w: 0.9850801383489182
+        box:
+          length: 3.595581914450921
+          width: 9.850503988038767
+          height: 3.228329288048204
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 1
+            nsecs: 906195000
+        translation:
+          x: -30.32627510466056
+          y: 8.115419676777588
+          z: 6.321164280971567
+        rotation:
+          x: 4.478335283792096e-08
+          y: -2.841832769128784e-08
+          z: 0.1720962551320434
+          w: 0.9850801383489182
+        box:
+          length: 3.637939794073706
+          width: 9.766508021477005
+          height: 3.142270843893678
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 6514000
+        translation:
+          x: -30.06998993593997
+          y: 6.483769715453175
+          z: 6.020618515273912
+        rotation:
+          x: 4.478335283792096e-08
+          y: -2.841832769128784e-08
+          z: 0.1720962551320434
+          w: 0.9850801383489182
+        box:
+          length: 3.486774394276086
+          width: 9.748368419465187
+          height: 3.186942161478798
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 106833000
+        translation:
+          x: -30.60527997464705
+          y: 7.18431753624463
+          z: 5.81210911875121
+        rotation:
+          x: 4.747556133624515e-08
+          y: -2.360581333701719e-08
+          z: 0.1024403016009316
+          w: 0.9947391540539195
+        box:
+          length: 3.360894592641305
+          width: 7.422682940399891
+          height: 3.042702374649026
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 2
+            nsecs: 206513000
+        translation:
+          x: -31.28503616882645
+          y: 9.20912648822816
+          z: 5.770776844546377
+        rotation:
+          x: 4.99181075035357e-08
+          y: -1.870827854956242e-08
+          z: 0.03272554259363598
+          w: 0.9994643759844316
+        box:
+          length: 2.824444496971573
+          width: 4.717502932057201
+          height: 2.534168311179486
+  - id: 9
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 408421000
+        translation:
+          x: -18.3691577911377
+          y: -19.49635982513428
+          z: 4.964912176132202
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 3.500027466565371
+          width: 10.4717205055058
+          height: 2.971066761761904
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 508740000
+        translation:
+          x: -17.91769218444824
+          y: -18.65870094299316
+          z: 4.97846519947052
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.634671021252871
+          width: 8.772801209241152
+          height: 2.953637648373842
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 609059000
+        translation:
+          x: -19.03269672393799
+          y: -14.40915298461914
+          z: 5.015794515609741
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.58530693128705
+          width: 8.787308502942324
+          height: 2.922524739056826
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 709377000
+        translation:
+          x: -18.93225193023682
+          y: -11.87679386138916
+          z: 4.845659971237183
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.560274887830019
+          width: 8.721594620496035
+          height: 2.541866589337587
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 809057000
+        translation:
+          x: -18.82746505737305
+          y: -9.388216733932495
+          z: 4.56433367729187
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.600060272961855
+          width: 8.671588230878115
+          height: 2.267469692975283
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 3
+            nsecs: 909376000
+        translation:
+          x: -18.81246948242188
+          y: -6.965059638023376
+          z: 4.370373368263245
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.318039704114199
+          width: 8.507305193692446
+          height: 2.084454108029604
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 4
+            nsecs: 9695000
+        translation:
+          x: -18.89329624176025
+          y: -4.678896069526672
+          z: 4.148866653442383
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 2.139456558972597
+          width: 8.226360846310854
+          height: 1.762994576245546
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 4
+            nsecs: 110013000
+        translation:
+          x: -18.81769847869873
+          y: -2.410871684551239
+          z: 4.042391419410706
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.572256851941347
+          width: 8.230499673634768
+          height: 1.574354697018862
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 4
+            nsecs: 209694000
+        translation:
+          x: -18.90092468261719
+          y: -0.1744009256362915
+          z: 4.005976915359497
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.295658875256777
+          width: 8.244881201535463
+          height: 1.463322926312685
+  - id: 10
+    track:
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 115364000
+        translation:
+          x: -18.98317813873291
+          y: 2.414599537849426
+          z: 3.162067592144012
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 1.030848313122988
+          width: 11.77408843114972
+          height: 2.395781923085451
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 215044000
+        translation:
+          x: -19.12916088104248
+          y: 3.493158757686615
+          z: 3.177695393562317
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.7723453529179096
+          width: 9.631296087056398
+          height: 2.401950407773256
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 315363000
+        translation:
+          x: -19.29733657836914
+          y: 5.273691296577454
+          z: 3.219403624534607
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.7760246284306049
+          width: 8.262768317013979
+          height: 2.393382120877504
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 415681000
+        translation:
+          x: -19.46094799041748
+          y: 7.208966851234436
+          z: 3.284567952156067
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.8155467994511127
+          width: 7.35937075689435
+          height: 2.383642721921206
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 516000000
+        translation:
+          x: -19.62412738800049
+          y: 8.355080604553223
+          z: 3.373182415962219
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.8554523475468159
+          width: 4.920628357678652
+          height: 2.37690119817853
+      - label: car
+        header:
+          frame_id: ls
+          stamp:
+            secs: 0
+            nsecs: 615680000
+        translation:
+          x: -19.7949161529541
+          y: 9.817740440368652
+          z: 3.487331748008728
+        rotation:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+        box:
+          length: 0.8858688361942768
+          width: 2.11261634901166
+          height: 2.373147059231997
